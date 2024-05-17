@@ -7,5 +7,6 @@ Kalle gick och hämtar en ny boll 6 </br>
 Jag tycker inte om Kalles nya boll 7 </br>
 Kalle blir arg på mig 7 </br>
 Kalle skriker på mig i kursiv 8 </br>
-<i> Bwaaahhhhhh </i>
+<i> Bwaaahhhhhh </i> </br>
+Kaller slutar att skriva ifrån andra Bash </br>
 # gitlek
