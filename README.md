@@ -9,4 +9,5 @@ Kalle blir arg på mig 7 </br>
 Kalle skriker på mig i kursiv 8 </br>
 <i> Bwaaahhhhhh </i> </br>
 Kaller slutar att skriva ifrån andra Bash </br>
+Kalle slutar även att skrika ifrån Bash 1 </br>
 # gitlek
